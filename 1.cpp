@@ -1,6 +1,6 @@
 #include<iostream>
 #include<fstream> // for files handling
-#include<conio.h> // compiler wait for any key from user
+#include<conio.h> // compiler wait for any key input from user
 using namespace std;
 void add();
 void search();
